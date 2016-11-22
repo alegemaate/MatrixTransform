@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479783434 source:c:\users\allan\documents\games indev\transformations\main.c
+	<allegro.h>
+	<stdio.h>
+
